@@ -91,4 +91,3 @@ the control plane should have unrestricted administrative access to the target.
 A component is described as **working** only after an end-to-end test proves the
 user-visible outcome. Process status, successful installation, or a connected
 socket are useful diagnostics, but they are not sufficient proof by themselves.
-

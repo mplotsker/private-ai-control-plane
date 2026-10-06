@@ -35,4 +35,3 @@ uses stricter disclosure rules than an ordinary sample project.
 Do not open a public issue containing sensitive data. Until a dedicated security
 contact is published, describe the problem without operational details and ask for
 a private reporting channel.
-

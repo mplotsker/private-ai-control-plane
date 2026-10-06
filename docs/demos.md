@@ -54,4 +54,3 @@ Use the same structure for each demo:
 3. The live result
 4. One failure encountered while building it
 5. What remains imperfect
-

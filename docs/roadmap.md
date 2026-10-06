@@ -37,4 +37,3 @@ The roadmap is organized around proof, reproducibility, and public usefulness.
 An artifact is publishable when it is tested, contains no secrets or personal
 data, names its assumptions, explains rollback, and has enough evidence for a
 reader to reproduce the claimed outcome.
-
