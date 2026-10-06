@@ -1,0 +1,33 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+
+# Logs, caches, and generated output
+*.log
+.cache/
+tmp/
+output/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Common language artifacts
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+
+# OpenClaw and local agent state
+.openclaw/
+memory/
+state/
+
